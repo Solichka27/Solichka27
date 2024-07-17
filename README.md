@@ -2,7 +2,7 @@
 <img src="my_photo.png" align="center" style="width: 450px; height: 330px;"/>
 </div>  
  
- ### <div align="center">Hi👋 I'm Solomiia Kornaha, a full-time frontend developer👩‍💻</div>  
+ ### **<div align="center">Hi👋 I'm Solomiia Kornaha, a full-time frontend developer👩‍💻</div>**
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Solichka27)  
@@ -91,4 +91,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+**<div align="center">Generated using Github Profilinator</div>**
