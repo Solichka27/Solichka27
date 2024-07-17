@@ -1,9 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi👋 I'm Solomiia Kornaha, a full-time frontend developer👩‍💻</div>  
+ ### <div align="center">Hi👋 I'm Solomiia Kornaha, a full-time frontend developer👩‍💻</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Solichka27)  
@@ -38,16 +33,6 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
