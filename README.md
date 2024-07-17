@@ -1,5 +1,5 @@
 <div align="center">
-<img src="IMG_20240627_174017.jpg" align="center" style="width: 600px; height: 500px; border-radius: 30%"/>
+<img src="IMG_20240627_174017.jpg" align="center" style="width: 750px; height: 500px; border-radius: 30px"/>
 </div>  
  
  ### <div align="center">Hi👋 I'm Solomiia Kornaha, a full-time frontend developer👩‍💻</div>  
