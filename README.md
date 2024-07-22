@@ -1,5 +1,5 @@
 <div align="center">
-<img src="my_photo.png" align="center" style="width: 450px; height: 330px;"/>
+
 </div>  
  
  ### **<div align="center">Hi👋 I'm Solomiia Kornaha, a full-time frontend developer👩‍💻</div>**
