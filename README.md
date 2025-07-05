@@ -1,85 +1,75 @@
+<!-- Profile Header -->
 <div align="center">
-  <img src="my_photo.png" alt="Solomiia_Kornaha" height="500px"> <br/> <br/> 
-</div>  
- 
- ### **<div align="center">Hi👋 I'm Solomiia Kornaha, a full-time frontend developer👩‍💻</div>**
-  <br/> 
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Solichka27)  
-  
-
-- 🌱 I’m currently learning HTML, CSS/SASS, JavaScript, React  
-  
-
-- ❓ Ask me about anything related to frontend and development  
-  
-
-- ⚡ My motto: while(alive)  { self.improve();}  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a> 
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <img src="my_photo.png" alt="Solomiia Kornaha" width="400" style="border-radius: 50%;" />
+  <h1>Hi 👋 I'm Solomiia Kornaha</h1>
+  <h4>🎯 Frontend Developer | 💡 Creative Thinker | 🌱 Lifelong Learner</h4>
 </div>
-</td></tr>
-</table>
 
-<br/>  
+---
 
+### 🔥 About Me
 
-## Connect with me  
-<br/> 
-<br/> 
-<br/> 
+- 🔭 I’m currently working on: [Github Profilinator](https://github.com/Solichka27)  
+- 🌱 Learning: `HTML`, `CSS/SASS`, `JavaScript`, `React`  
+- 💬 Ask me anything about frontend & UI development  
+- ⚡ Motto: `while(alive) { self.improve(); }`
+
+---
+
+### 🚀 Tech Stack
+
 <div align="center">
-<a href="https://github.com/Solichka27" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/solomiia-kornaha-4594282a7" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/27_solomiya" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/Solomiia27" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" height="50"/>
+</div>
 
 
-## Github Stats  
-<br/>  
-<br/>  
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Solichka27&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/>  
+### 📊 GitHub Analytics
 
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Solichka27&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Solichka27&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<br/>  
+---
 
+### 📈 Most Used Languages
 
-<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solichka27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-----
-**<div align="center">Generated using Github Profilinator</div>**
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Solichka27" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/solomiia-kornaha-4594282a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/27_solomiya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/Solomiia27" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  🛠️ Generated with ❤️ by <a href="https://github.com/rishavanand/github-profilinator" target="_blank">GitHub Profilinator</a>
+</div>
